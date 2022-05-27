@@ -1,0 +1,48 @@
+.title-line {
+    font-size: 1.8em;
+    color: orangered;
+    line-height: 3em;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-align: center;
+    position: relative;
+}
+.title-line::before {
+    content: "";
+    display: block;
+    width: 110%;
+    border-top: 1px solid #444;
+    position: absolute;
+    top: 1.7em;
+    z-index: 9;
+}
+.title-line span {
+    background: #fff;
+    display: inline-block;
+    padding: 5px 10px;
+    z-index: 1000;
+    position: relative;
+}
+
+/* profile */
+.personal-data {
+    border-right: 4px solid orange;
+}
+
+.personal-data  .personal {
+    max-width: 280px;
+}
+
+.personal-data .profile-photo{
+    border-radius: 50%;
+}
+
+.experiences .block{
+    padding: 0 0 0 20px;
+}
+
+.experiences .row {
+    padding-bottom: 2em;
+    border-bottom: 1px solid #888;
+    margin-bottom: 2em;
+}
