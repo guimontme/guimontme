@@ -9,6 +9,6 @@ My name is Guilherme Monteiro, short Gui Mont. I'm from Brazil (BR). I've been w
 ![Gui Mont's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimontme&layout=compact&theme=dark)
 
 ## Other links
-[Web Portfolio](https://www.notion.so/guimontme/Web-Portfolio-cd293043a75a43a290e18b3842cc1556){:target="_blank"}
+<a href="https://www.notion.so/guimontme/Web-Portfolio-cd293043a75a43a290e18b3842cc1556" target="_blank">Web Portfolio</a>
 
-[Resume (PT)](https://guimontme.github.io/guimontme/curriculo.html){:target="_blank"}
+<a href="https://guimontme.github.io/guimontme/curriculo.html" target="_blank">Resume (PT)</a>
