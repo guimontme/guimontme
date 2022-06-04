@@ -1,6 +1,6 @@
 # "Hi, guys"!
 
-My name is Guilherme Monteiro, short Gui Mont. I'm from Brazil (BR). I've been working as Front-End Developer since 2016, but I worked as Web Designer, Graphic Designer and others stacks since 2009. Actually I looking for jobs.   
+My name is Guilherme Monteiro, short Gui Mont. I'm from Brazil (BR). I've been working as Front-End Developer since 2016, but I worked as Web Designer, Graphic Designer and others stacks since 2009. Actually I'm looking for jobs.   
 
 
 ### GitHub Stats
