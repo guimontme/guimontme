@@ -27,6 +27,11 @@
 /* profile */
 .personal-data {
     border-right: 4px solid orange;
+    position: relative;
+}
+
+.personal-data-content  {
+    position: fixed;
 }
 
 .personal-data  .personal {
@@ -45,4 +50,35 @@
     padding-bottom: 2em;
     border-bottom: 1px solid #888;
     margin-bottom: 2em;
+}
+
+.text-sm {
+    font-size: .9em;
+}
+.color-gray {
+    color: #444;
+}
+
+/* Print */
+@media print {
+    .personal-data, aside {
+        border-right: none;
+        visibility: visible !important;
+        width: 100vw !important;
+        position: initial;
+    } 
+    .personal-data-content  {
+        position: relative;
+    }
+    .personal-data  .personal {
+        max-width: 100%;
+    }
+    
+    .title-line::before {
+        top: 3em;
+    }
+    
+    /* .experiences .row {
+        border-bottom: none;
+    }   */
 }
