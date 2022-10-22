@@ -24,8 +24,13 @@
     position: relative;
 }
 
+.article_cv {
+    display: grid;
+    grid-template-columns: max(280px) 1fr;
+}
+
 /* profile */
-.personal-data {
+.personal_data {
     border-right: 4px solid orange;
     position: relative;
 }
@@ -34,11 +39,12 @@
     position: fixed;
 }
 
-.personal-data  .personal {
+.personal_data  .personal {
     max-width: 280px;
+    padding-right: 20px;
 }
 
-.personal-data .profile-photo{
+.personal_data .profile-photo{
     border-radius: 50%;
 }
 
@@ -61,7 +67,7 @@
 
 /* Print */
 @media print {
-    .personal-data, aside {
+    .personal_data, aside {
         border-right: none;
         visibility: visible !important;
         width: 100vw !important;
