@@ -76,7 +76,8 @@
     .personal-data-content  {
         position: relative;
     }
-    .personal-data  .personal {
+    .personal-data  .personal,
+    .personal-data  .contact {
         max-width: 100%;
     }
     
