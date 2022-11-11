@@ -11,4 +11,6 @@ My name is Guilherme Monteiro, short Gui Mont. I'm from Brazil (BR). I've been w
 ## Other links
 [Web Portfolio](https://www.notion.so/guimontme/Web-Portfolio-cd293043a75a43a290e18b3842cc1556)
 
+[Resume (EN)](https://guimontme.github.io/guimontme/resume.html)
+
 [Resume (PT)](https://guimontme.github.io/guimontme/curriculo.html)
