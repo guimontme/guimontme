@@ -1,5 +1,12 @@
 # "Hi, guys"!
 
+- 👋 Hi, I’m @guimontme. 
+- 👀 I’m interested in Full Stack Development, more frontend than backend development
+- 🌱 I’m currently learning Go-lang, Node.JS React and React Native
+- 💞️ I’m looking to collaborate on HR Startup Company and projects
+- 📫 How to reach me on my [LinkedIn Profile](https://www.linkedin.com/in/guimontme/) 
+- 🚀 Currently I'm working on HR Project. 
+
 My name is Guilherme Monteiro, short Gui Mont. I'm from Brazil (BR). I've been working as Front-End Developer since 2016, but I worked as Web Designer, Graphic Designer and with others stacks since 2009.  
 
 
