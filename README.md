@@ -1,7 +1,7 @@
 # "Hi, guys"!
 
 - 👋 Hi, I’m @guimontme. 
-- 👀 I’m interested in Full Stack Development, more frontend than backend development
+- 👀 I’m a Full Stack Developer, more frontend than backend
 - 🌱 I’m currently learning Go-lang, Node.JS React and React Native
 - 💞️ I’m looking to collaborate on HR Startup Company and projects
 - 📫 How to reach me on my [LinkedIn Profile](https://www.linkedin.com/in/guimontme/) 
